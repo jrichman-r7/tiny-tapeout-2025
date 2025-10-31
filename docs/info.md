@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-I don't know
+Displays a J when dipswitch 1 is on
 
 ## How to test
 
-don't
+Do the above
 
 ## External hardware
 
