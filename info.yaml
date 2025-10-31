@@ -27,7 +27,7 @@ pinout:
 
   # Outputs
   uo[0]: "some out"
-  uo[1]: "nor or"
+  uo[1]: "nor or and"
   uo[2]: ""
   uo[3]: ""
   uo[4]: ""
